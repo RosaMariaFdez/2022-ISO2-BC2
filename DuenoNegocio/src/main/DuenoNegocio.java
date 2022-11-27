@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class DuenoNegocio extends Usuarios {
 
 	public void addRuta() {
@@ -5,4 +6,13 @@ public class DuenoNegocio extends Usuarios {
 		throw new UnsupportedOperationException();
 	}
 
+=======
+public class DuenoNegocio extends Usuarios {
+
+	public void addRuta() {
+		// TODO - implement DuenoNegocio.addRuta
+		throw new UnsupportedOperationException();
+	}
+
+>>>>>>> it1-Desarrollo
 }
