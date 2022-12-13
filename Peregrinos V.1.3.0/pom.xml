@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>BC01</groupId>
+    <artifactId>2022_ISO</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <groupId>BC01</groupId>
+  <artifactId>2022_ISO_PEREGRINOS_IT7</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Implmentación iteración 7</name>
+</project>
